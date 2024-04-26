@@ -1,0 +1,10 @@
+Bu oyun projesini hazırlayanlar:
+
+Uğur Öztürk 200401086
+İsmet Koçer 190401010
+Gamze Kocaman 190401022
+Ahmet Akkoç 200401044
+
+Zigzag game(build) klasörünün içindeki exeye tıklayarak oyunu açabilirsiniz. Oyun açıldığı gibi başlamaktadır fakat bir oyun sonu ekranı bulunmaktadır. Ekrana mouse sol clicki ile tıkladığınızda topun gitti yön değişmektedir. Topumuz ilk başta sağa doğru dönerek ilerlemektedir. Ekrana tıkladığımızda yukarı doğru tekrar tıkladığımızda sağa doğru ilerlemektedir. Sağ üst köşede skor göstergemiz bulunmaktadır. Oyunda vakit geçtikçe top hızlanmakta dolayısıyla oyun zorlaşmaktadır.
+
+Hazırlayanlar listesi oyun sonu ekranındaki credits butonuna tıklandığında da gözükmektedir. Aynı şekilde oyun sonunda Restart butonu ile oyun yeniden başlatılabildiği gibi Exit butonuyla da oyundan çıkış sağlanmaktadır.

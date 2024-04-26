@@ -1,0 +1,4 @@
+repository "Nesneye Dayalı Analiz Tasarım@Reashi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
